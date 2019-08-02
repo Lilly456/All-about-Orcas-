@@ -1,0 +1,23 @@
+body{
+
+
+
+
+
+}
+#grad1 {
+  height:600px;
+
+  background-image: linear-gradient(darkblue,blue, lightblue);
+}
+
+
+
+img{
+  float:right;
+  position: fixed;
+  right: 60px;
+    .Textwrap{
+      float:right;
+      margin-top: S70px; }
+  }

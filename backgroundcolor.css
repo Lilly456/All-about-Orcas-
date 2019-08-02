@@ -1,0 +1,12 @@
+body{
+
+
+
+
+
+}
+#grad1 {
+  height:600px;
+
+  background-image: linear-gradient(darkblue,blue, lightblue);
+}
